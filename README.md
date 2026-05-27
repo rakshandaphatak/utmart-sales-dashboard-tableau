@@ -2,6 +2,7 @@
 
 ## 📌 Project Description
 This project focuses on analyzing sales performance, customer purchasing behavior, and category growth trends using Tableau.
+
 ---
 
 # 🎯 Objectives
@@ -75,4 +76,6 @@ This Tableau dashboard provides a complete business performance overview and sup
 
 ---
 Author
+
+Rakshanda Rajesh Phatak
 Email - rakshanda5193@gmail.com
